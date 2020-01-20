@@ -1,0 +1,6 @@
+.card-wrapper{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    box-shadow: 0 4px 8px -1px rgba(0, 0, 0, 0.1);
+}
